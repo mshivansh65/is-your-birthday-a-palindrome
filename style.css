@@ -1,0 +1,25 @@
+:root {
+  --primary-color: #334155;
+}
+body {
+  background-color: var(--primary-color);
+  color: #fff;
+  text-align: center;
+  border: 3px solid #fff;
+  height: 97vh;
+}
+#input-date,
+.btn {
+  padding: 0.3rem;
+  border-radius: 5px;
+}
+.btn {
+  background-color: #fff;
+}
+h1 {
+  margin-top: 10rem;
+}
+.message {
+  margin-top: 3rem;
+  font-size: 2rem;
+}
